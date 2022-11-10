@@ -9,8 +9,8 @@
   </p>
   
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/cipher387/regex-for-OSINT">
-    <img alt="GitHub forks" src="https://img.shields.io/github/forks/cipher387/regex-for-OSINT">
-    [@cyb_detective](https://linktr.ee/cyb_detective)
+    <img alt="GitHub forks" src="https://img.shields.io/github/forks/cipher387/regex-for-OSINT">  
+    <span>[@cyb_detective](https://linktr.ee/cyb_detective)</span>
     
 </div>
 
