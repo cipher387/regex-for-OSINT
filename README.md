@@ -12,6 +12,10 @@
  If you are serious about OSINT but do not yet use regular expressions in your practice, I recommend that you read this article to realize all the amazing possibilities this technology offers:
  
  [How regular expressions can be useful in OSINT. Theory and some practice using Google Sheets](https://medium.com/@cyb_detective/this-article-consists-of-three-short-parts-31d31efabd5)
+ 
+<b>Important:</b>
+
+If you happen to find some regular expression on the Internet and it doesn't work, check its compatibility with the application or programming language you are using. All the differences between the different types of regular expressions (PCRE, JavaScript, Python, POSIX ERE, etc.) are described in detail here [Regex Info](https://www.regular-expressions.info/refbasic.html)
   
   
   
@@ -20,5 +24,13 @@
 | Link                                    | Description                                                                        | 
 | --------------------------------------- | ---------------------------------------------------------------------------------- |
 |  [UI Bakery Regex Library](https://uibakery.io/regex-library) | A short list of a couple dozen of the most useful and widely used regular expressions.|
+|  [Regex101](https://regex101.com/library) |16000+ regular expressions + editor/debugger with quick reference |
+|  [XRegexp](https://xregexp.com) |JavaScript regular expressions library |
+|  []() | |
+    
+
+
+
+
 |  []() | |
     
