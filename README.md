@@ -3,12 +3,14 @@
   <img align="center" src="./regex_repo_logo.png" width="400px" >
     <h1>Regex for OSINT</h1>
    
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/cipher387/regex-for-OSINT">
-    <img alt="GitHub forks" src="https://img.shields.io/github/forks/cipher387/regex-for-OSINT">
-    
-
+   
+<p>
    A list of application tools and information resources to help you effectively use regular expressions in OSINT (Open Source Intelligence)
   </p>
+  
+   <img alt="GitHub stars" src="https://img.shields.io/github/stars/cipher387/regex-for-OSINT">
+    <img alt="GitHub forks" src="https://img.shields.io/github/forks/cipher387/regex-for-OSINT">
+    
 </div>
 
 
