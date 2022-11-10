@@ -77,6 +77,15 @@ If you happen to find some regular expression on the Internet and it doesn't wor
 # Practice
 
 
+## Command line tools for searching and extracting data with regex
+| Link                                    | Description                                                                        | 
+| --------------------------------------- | ---------------------------------------------------------------------------------- |
+|  [FD](https://github.com/sharkdp/fd) | Written in Rust analog of the standard Linux <b>find</b> utility. Faster and more User friendly |
+|  [SD](https://github.com/chmln/sd) | Written in Rust analog of the standard Linux <b>sed</b> utility. Faster and more User friendly |
+|  [Awesome GREP](https://github.com/cipher387/awesome-grep) | A list of various tools for working with different file types that have similar functionality to the standard Linux <b>grep</b> utility |
+|  [VIM](http://vimregex.com/) |The most powerful command line text editor with many functions for working with regular expressions. |
+|  [AWK](https://www.gnu.org/software/gawk/manual/gawk.html) |AWK is a domain-specific language designed for text processing and typically used as a data extraction and reporting tool |
+
 ## Search engines with regex support
 | Link                                    | Description                                                                        | 
 | --------------------------------------- | ---------------------------------------------------------------------------------- |
