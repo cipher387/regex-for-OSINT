@@ -159,7 +159,7 @@ If you happen to find some regular expression on the Internet and it doesn't wor
 |  [find+](https://chrome.google.com/webstore/detail/find%2B-regex-find-in-page/fddffkdncgkkdjobemgbpojjeffmmofb) |Regex Find-in-Page Tool |
 |  [Chrome regex search](https://chrome.google.com/webstore/detail/chrome-regex-search/bpelaihoicobbkgmhcbikncnpacdbknn) | Dynamically highlight regex matches on the web page |
 
-
+<hr>
 
 Don't forget to follow [@cyb_detective](https://linktr.ee/cyb_detective)
     
