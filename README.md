@@ -20,7 +20,7 @@
 
 If you happen to find some regular expression on the Internet and it doesn't work, check its compatibility with the application or programming language you are using. All the differences between the different types of regular expressions (PCRE, JavaScript, Python, POSIX ERE, etc.) are described in detail [here](https://www.regular-expressions.info/refbasic.html)
   
-  
+ # Theory 
   
   ## Best Regex Cheatsheets
 | Link                                    | Description                                                                        | 
@@ -72,6 +72,18 @@ If you happen to find some regular expression on the Internet and it doesn't wor
 |  [Regexper](https://regexper.com/) | A tool that converts a regular expression into a block diagram |
 |  [Extend Class Regex Visualizer](https://extendsclass.com/regex-tester.html) | Test, debug and visaulize regex online  |
 
+
+
+# Practice
+
+
+## Search engines with regex support
+| Link                                    | Description                                                                        | 
+| --------------------------------------- | ---------------------------------------------------------------------------------- |
+|  [Public WWW](https://publicwww.com/) |Source Code Search Engine. Find any alphanumeric snippet, signature or keyword in the web pages HTML, JS and CSS code. |
+|  [Grep.app](https://grep.app/) | Search across half of million Github repos |
+|  [NetlasIO](https://netlas.io/) |Search service for all devices connected to the Internet. You can search by IP addresses, port, protocols, certificates, vulnerability names and other parameters. |
+|  [Sourcegraph](https://learn.sourcegraph.com/how-to-search-with-sourcegraph-using-regular-expression-patterns) | Source code search engine |
 
 
 
