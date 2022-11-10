@@ -1,6 +1,7 @@
 
 <div align="center">
     <h1>Regex for OSINT</h1>
+     <img align="center" src="./regex_repo_logo.png" width="180px" >
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/cipher387/regex-for-OSINT">
     <img alt="GitHub forks" src="https://img.shields.io/github/forks/cipher387/regex-for-OSINT">
     
