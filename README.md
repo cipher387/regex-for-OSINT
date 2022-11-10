@@ -29,8 +29,26 @@ If you happen to find some regular expression on the Internet and it doesn't wor
 |  []() | |
     
 
+## Tools to help understanding regular expressions
+ 
+| Link                                    | Description                                                                        | 
+| --------------------------------------- | ---------------------------------------------------------------------------------- |
+|  [Stanford regex analyzer](http://xenon.stanford.edu/~xusch/regexp/) | An online tool that generates a text description for any regular expression |
+|  [Regexper](https://regexper.com/) | A tool that converts a regular expression into a block diagram |
+
+
+## Regex generators and constructors
+| Link                                    | Description                                                                        | 
+| --------------------------------------- | ---------------------------------------------------------------------------------- |
+|  [Autoregex](https://www.autoregex.xyz/) | A tool that generates regular expressions against a verbal description using AI|
 
 
 
 |  []() | |
+
+
+|  []() | |
+
+
+Don't forget to follow [@cyb_detective](https://linktr.ee/cyb_detective)
     
