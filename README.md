@@ -29,7 +29,7 @@ If you happen to find some regular expression on the Internet and it doesn't wor
 |  []() | |
     
 
-## Tools to help understanding regular expressions
+## Understanding regular expression
  
 | Link                                    | Description                                                                        | 
 | --------------------------------------- | ---------------------------------------------------------------------------------- |
