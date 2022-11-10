@@ -76,6 +76,11 @@ If you happen to find some regular expression on the Internet and it doesn't wor
 
 # Practice
 
+<p>
+<b>Important:</b> Regular expressions are supported by a huge number of applications. Even Google Docs and Adobe Photoshop (in JavaScript automations) support them. Before you install any new application to use regular expressions, think about whether you can use something you already have.
+
+</p>
+
 
 ## Command line tools for searching and extracting data with regex
 | Link                                    | Description                                                                        | 
@@ -98,10 +103,6 @@ If you happen to find some regular expression on the Internet and it doesn't wor
 |  [Visual Studio](https://learn.microsoft.com/en-us/visualstudio/ide/using-regular-expressions-in-visual-studio?view=vs-2022) | |
 
 
-<p>
-<b>Important:</b> Regular expressions are supported by a huge number of applications. Even Google Docs and Adobe Photoshop (in JavaScript automations) support them. Before you install any new application to use regular expressions, think about whether you can use something you already have.
-
-</p>
 
 ## Search engines with regex support
 | Link                                    | Description                                                                        | 
