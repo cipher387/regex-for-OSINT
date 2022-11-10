@@ -60,7 +60,7 @@ If you happen to find some regular expression on the Internet and it doesn't wor
 
 
 
-## Understanding regular expression
+## Understanding regex
  
 | Link                                    | Description                                                                        | 
 | --------------------------------------- | ---------------------------------------------------------------------------------- |
