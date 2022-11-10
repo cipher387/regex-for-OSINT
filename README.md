@@ -1,6 +1,5 @@
 <div align="center">
     <img align="center" src="./logo.png" width="180px" >
-    <h2 align="center">Regex for OSINT</h2>     
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/cipher387/regex-for-OSINT">
     <img alt="GitHub forks" src="https://img.shields.io/github/forks/cipher387/regex-for-OSINT">
    
@@ -9,5 +8,13 @@
 </div>
 
  [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
-    <p align="center">
+  
+  
+  
+  ## Regex Libraries
+  
+| Link                                    | Description                                                                        | 
+| --------------------------------------- | ---------------------------------------------------------------------------------- |
+|  [UI Bakery Regex Library](https://uibakery.io/regex-library) | A short list of a couple dozen of the most useful and widely used regular expressions.|
+|  []() | |
     
