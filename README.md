@@ -86,6 +86,23 @@ If you happen to find some regular expression on the Internet and it doesn't wor
 |  [VIM](http://vimregex.com/) |The most powerful command line text editor with many functions for working with regular expressions. |
 |  [AWK](https://www.gnu.org/software/gawk/manual/gawk.html) |AWK is a domain-specific language designed for text processing and typically used as a data extraction and reporting tool |
 
+
+
+## Text editors with regex support
+| Link                                    | Description                                                                        | 
+| --------------------------------------- | ---------------------------------------------------------------------------------- |
+|  [Notepad++](https://npp-user-manual.org/docs/searching/) | |
+|  [Sublime Text](https://sublime-text-unofficial-documentation.readthedocs.io/en/latest/search_and_replace/search_and_replace_overview.html) | |
+|  [Edit Pad](https://www.regular-expressions.info/editpadlite.html) | |
+|  [Atom](http://2017.compciv.org/guide/topics/end-user-software/atom/how-to-use-regex-atom.html) | |
+|  [Visual Studio](https://learn.microsoft.com/en-us/visualstudio/ide/using-regular-expressions-in-visual-studio?view=vs-2022) | |
+
+
+<p>
+<b>Important:</b> Regular expressions are supported by a huge number of applications. Even Google Docs and Adobe Photoshop (in JavaScript automations) support them. Before you install any new application to use regular expressions, think about whether you can use something you already have.
+
+</p>
+
 ## Search engines with regex support
 | Link                                    | Description                                                                        | 
 | --------------------------------------- | ---------------------------------------------------------------------------------- |
