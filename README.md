@@ -15,7 +15,20 @@
     
 </div>
 
+## Table of contents
 
+  - [Best Regex Cheatsheets](#best-regex-cheatsheets)
+  - [Regex online courses](#regex-online-courses)
+  - [Regex Lists and Libraries](#regex-lists-and-libraries)
+  - [Regex generators and constructors](#regex-generators-and-constructors)
+  - [Understanding regex](#understanding-regex)
+     
+  - [Command line tools for searching and extracting data with regex](#command-line-tools-for-searching-and-extracting-data-with-regex)
+  - [Text editors with regex support](#text-editors-with-regex-support)
+  - [Search engines with regex support](#search-engines-with-regex-support)
+  - [Examples of OSINT tools with regex support](#examples-of-osint-tools-with-regex-support)
+  - [Google Chrome Extensions for searching and extracting data with regex](#google-chrome-extensions-for-searching-and-extracting-data-with-regex)
+  
  
  
  If you are serious about OSINT but do not yet use regular expressions in your practice, I recommend that you read this article to realize all the amazing possibilities this technology offers:
