@@ -111,8 +111,18 @@ If you happen to find some regular expression on the Internet and it doesn't wor
 |  [Grep.app](https://grep.app/) | Search across half of million Github repos |
 |  [NetlasIO](https://netlas.io/) |Search service for all devices connected to the Internet. You can search by IP addresses, port, protocols, certificates, vulnerability names and other parameters. |
 |  [Sourcegraph](https://learn.sourcegraph.com/how-to-search-with-sourcegraph-using-regular-expression-patterns) | Source code search engine |
+|  [Live Grep](https://github.com/livegrep/livegrep) | Search across Github repos |
 
 
+
+## Examples of OSINT tools with regex support
+| Link                                    | Description                                                                        | 
+| --------------------------------------- | ---------------------------------------------------------------------------------- |
+|  [WayMore](https://github.com/xnl-h4ck3r/waymore) | Search archived links to domain in Wayback Machine and Common Crawl (+ Urlscan and Alien Vault OTX). Very extensive options for filtering search results by keywords (using Regexp), date and time, and other parameters. |
+|  [Secret Finder](https://github.com/m4ll0k/SecretFinder) | Tool for find sensitive data (apikeys, accesstoken,jwt,..) or search anything with #regexp on #javascript files. |
+|  [DumpsterDiver](https://github.com/securing/DumpsterDiver) | Tool can analyze big volumes of data and find some "secrets" in the files (passwords and hardcoded password, SSH, Azure and AWS keys etc). Uncompress archived files, support regular expressions and advanced search rules. |
+|  [Rextract](https://github.com/iustin24/rextract) | This extreme simple tool extracts the strings corresponding to a certain #regex  from the html code of the list of URLs. |
+|  [GREP for OSINT](https://github.com/cipher387/grep_for_osint) |Set of very simple shell scripts that will help you quickly analyze a text or a folder with files for data useful for investigation (phone numbers, bank card numbers, URLs, emails and nicknames). |
 
 
 ## Google Chrome Extensions for searching and extracting data with regex
@@ -122,18 +132,6 @@ If you happen to find some regular expression on the Internet and it doesn't wor
 |  [find+](https://chrome.google.com/webstore/detail/find%2B-regex-find-in-page/fddffkdncgkkdjobemgbpojjeffmmofb) |Regex Find-in-Page Tool |
 |  [Chrome regex search](https://chrome.google.com/webstore/detail/chrome-regex-search/bpelaihoicobbkgmhcbikncnpacdbknn) | Dynamically highlight regex matches on the web page |
 
-
-
-## 
-
-
-
-|  []() | |
-
-|  []() | |
-
-
-|  []() | |
 
 
 Don't forget to follow [@cyb_detective](https://linktr.ee/cyb_detective)
