@@ -7,6 +7,11 @@
 </div>
 
  [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+ 
+ 
+ If you are serious about OSINT but do not yet use regular expressions in your practice, I recommend that you read this article to realize all the amazing possibilities this technology offers:
+ 
+ [How regular expressions can be useful in OSINT. Theory and some practice using Google Sheets](https://medium.com/@cyb_detective/this-article-consists-of-three-short-parts-31d31efabd5)
   
   
   
