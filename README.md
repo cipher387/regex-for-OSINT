@@ -15,7 +15,7 @@
  
 <b>Important:</b>
 
-If you happen to find some regular expression on the Internet and it doesn't work, check its compatibility with the application or programming language you are using. All the differences between the different types of regular expressions (PCRE, JavaScript, Python, POSIX ERE, etc.) are described in detail here [Regex Info](https://www.regular-expressions.info/refbasic.html)
+If you happen to find some regular expression on the Internet and it doesn't work, check its compatibility with the application or programming language you are using. All the differences between the different types of regular expressions (PCRE, JavaScript, Python, POSIX ERE, etc.) are described in detail [here](https://www.regular-expressions.info/refbasic.html)
   
   
   
