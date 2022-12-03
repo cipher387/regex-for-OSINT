@@ -88,6 +88,12 @@ If you happen to find some regular expression on the Internet and it doesn't wor
 |  [Regular expression builder](https://drdoane.com/regular-expression-builder/) | Online tool for writing regular expressions by selecting values and parameters from a drop-down list. |
 |  [Strings to regex](https://www.wimpyprogrammer.com/strings-to-regex/) | Generates a regular expression matching a long list of string values. |
 
+## Regex testers
+| Link                                    | Description                                                                        | 
+| --------------------------------------- | ---------------------------------------------------------------------------------- |
+|  [Regexly JS](https://regexly.js.org/)| A tool for testing various JavaScript methods with a combination of "regular expression" + "string". |
+
+
 
 
 ## Understanding regex
