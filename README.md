@@ -28,6 +28,7 @@
   - [Regex online courses](#regex-online-courses)
   - [Regex Lists and Libraries](#regex-lists-and-libraries)
   - [Regex generators and constructors](#regex-generators-and-constructors)
+  - [Regex testers](#regex-testers)
   - [Understanding regex](#understanding-regex)
      
   - [Command line tools for searching and extracting data with regex](#command-line-tools-for-searching-and-extracting-data-with-regex)
