@@ -55,7 +55,7 @@
  
 | Link                                    | Description                                                                        | 
 | --------------------------------------- | ---------------------------------------------------------------------------------- |
-|  [Regex Learn](https://regexlearn.com/learn/) | Complete 56 short online exercises and learn how to use regular expressions. |
+|  [Regex Learn](https://regexlearn.com/learn) | Complete 56 short online exercises and learn how to use regular expressions. |
 |  [Regex One](https://regexone.com/) | 25 lessons with interactive exercises |
 
 
