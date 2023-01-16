@@ -94,7 +94,12 @@ If you happen to find some regular expression on the Internet and it doesn't wor
 | Link                                    | Description                                                                        | 
 | --------------------------------------- | ---------------------------------------------------------------------------------- |
 |  [Regexly JS](https://regexly.js.org/)| A tool for testing various JavaScript methods with a combination of "regular expression" + "string". |
-
+|  [Rubular](https://rubular.com/)| Ruby regular expression editor |
+|  [PyRegex](http://www.pyregex.com/)| Python regular expression tester |
+|  [RegexHero](https://regexhero.net/tester/)| .NET regex tester |
+|  [PHPLive Regex](https://www.phpliveregex.com/)| PHP Regex tester |
+|  [Regex101](https://regex101.com/)| Golang, Java, .NET, Python, JavaScript, PCRE regex tester  |
+|  []()|  |
 
 
 
