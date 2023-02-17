@@ -89,6 +89,7 @@ If you happen to find some regular expression on the Internet and it doesn't wor
 |  [Regular expression builder](https://drdoane.com/regular-expression-builder/) | Online tool for writing regular expressions by selecting values and parameters from a drop-down list. |
 |  [Strings to regex](https://www.wimpyprogrammer.com/strings-to-regex/) | Generates a regular expression matching a long list of string values. |
 |  [Regex Help](https://regex.help/)| Generating regular expressions based on example strings. |  
+|  [Regex Nodes](https://johannesvollmer.com/regex-nodes/?expression=L2Zvci9nbQ%3D%3D)| Regex Visual Editor |  
 
 ## Regex testers
 | Link                                    | Description                                                                        | 
