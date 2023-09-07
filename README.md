@@ -11,7 +11,7 @@
    <img alt="GitHub stars" src="https://img.shields.io/github/stars/cipher387/regex-for-OSINT">
     <img alt="GitHub forks" src="https://img.shields.io/github/forks/cipher387/regex-for-OSINT">  
     
-  [@cyb_detective](https://linktr.ee/cyb_detective)
+  [@cyb_detective](https://cybdetective.com)
     
 </div>
 
@@ -175,5 +175,5 @@ If you happen to find some regular expression on the Internet and it doesn't wor
 
 <hr>
 
-Don't forget to follow [@cyb_detective](https://linktr.ee/cyb_detective)
+Thank you for following me! https://cybdetective.com
     
